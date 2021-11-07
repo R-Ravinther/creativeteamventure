@@ -27,23 +27,23 @@
 
 $('#exp').jQuerySimpleCounter({
 			start:  0,
-	        end:    15,
+	        end:    28,
 			duration: 4000
 		});
 
 $('#satisfy').jQuerySimpleCounter({
 			start:  0,
-	        end:    1000,
+	        end:    50,
 			duration: 4000
 		});
 $('#corpo').jQuerySimpleCounter({
 			start:  0,
-	        end:    130,
+	        end:    50,
 			duration: 4000
 		});
 $('#teamm').jQuerySimpleCounter({
 			start:  0,
-	        end:    20,
+	        end:    15,
 			duration: 4000
 		});
 
