@@ -1878,6 +1878,7 @@ text-rendering: optimizeLegibility !important;
      flex-direction: column;
      border-radius: 15px;
      background-color: #fff;
+	 height:200px;
 	 
 	
    }
@@ -3476,6 +3477,7 @@ text-rendering: optimizeLegibility !important;
 	 background-size: contain; 
 	 
    }
+   
     .illustration-about-1 {
       position:relative;
      width: auto;
@@ -3491,6 +3493,16 @@ text-rendering: optimizeLegibility !important;
      width: auto;
 	 z-index: 10;
 	 background-image:url(images/about-why.png);
+	 background-repeat:no-repeat;
+	 background-position: center;
+	 background-size: contain; 
+	 
+   }
+    .illustration-about-3 {
+      position:relative;
+     width: auto;
+	 z-index: 10;
+	 background-image:url(images/about-who.png);
 	 background-repeat:no-repeat;
 	 background-position: center;
 	 background-size: contain; 

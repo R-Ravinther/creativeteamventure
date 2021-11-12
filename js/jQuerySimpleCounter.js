@@ -19,6 +19,7 @@
 				thisElement.text(mathCount);
 			},
 			complete: settings.complete
+			
 		});
 	};
 
@@ -28,7 +29,7 @@
 $('#exp').jQuerySimpleCounter({
 			start:  0,
 	        end:    28,
-			duration: 4000
+			duration: 4000			
 		});
 
 $('#satisfy').jQuerySimpleCounter({
